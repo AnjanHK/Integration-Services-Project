@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>Integration Services Project</Name>
+    <LastWriteTime>2020-11-10T14:49:12.8689919Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+    <Salt>DsnqfWwB</Salt>
+    <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjG3egldnSEm7WKKIoRcSIAAAAAACAAAAAAAQZgAAAAEAACAAAACc5Re32nkpEsDjbxNpB2bwrcItHGZxXja2IRHKubcubQAAAAAOgAAAAAIAACAAAACf0ABxVr0q56Kq7iFSz4FeTa77uGBhDd5OW4sNg/NlwjAAAADBIMdKPOEZ9GiQGS8bVWpddY2+ZErluKSILV5wrmabguWwdWPQt2kahLicGAeyytBAAAAA72kqxvFQ2ppspMhUexF8vAEfbXe+0cztw0GkZNtnB17M0BSHtGcinAjUb9ZId/PLs4TMfdG7npXQwyfQ5u+hEg==</LastKnownProtectedHashedPassword>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>Package.dtsx</Name>
+      <LastWriteTime>2020-11-10T14:49:12.7673802Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+      <Salt>C/I/4kUS</Salt>
+      <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjG3egldnSEm7WKKIoRcSIAAAAAACAAAAAAAQZgAAAAEAACAAAADOgJd7srUlPIAfrJYQW4onEXxF0nNBvXU9u7f22AlxJAAAAAAOgAAAAAIAACAAAAANi7f6ZmmxkshpqUp3sW0Dxxwv1zbtTbe8+FjXNntuEjAAAABbo2Acd93PrAflCAG/dpPbH7PLPfbzHR36dvPAzI9YNhvydrC6sOVje653baed1aNAAAAAeql2WzOmDyCxRhYdVJZu5SSl+Le4tn1HGtYXR7T9KFldGYA2JxwkC5+Uzy8gjnxkpn2yrqmeoEvSu+HM++R7Hg==</LastKnownProtectedHashedPassword>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
